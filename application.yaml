@@ -6,7 +6,6 @@ metadata:
 spec:
    project: default
    source:
-      repoURL: https://github.com/abhi1-rithu2/argoCD-apps-cnfgrtn.git
       targetRevision: HEAD
       path: dev
    destination:
